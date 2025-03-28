@@ -1,0 +1,10 @@
+animalsStart 4
+energyStart 4
+energyConsumption 4
+energyRequired 4
+energyReproduction 4
+genomeSize 4
+grassPerDay 4
+minMutation 3
+maxMutation 4
+grassStart 4
