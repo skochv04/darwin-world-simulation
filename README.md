@@ -3,12 +3,12 @@
 A JavaFX project, developed as part of the 3th semester of studies at AGH.
 
 ## 👥 Team Members:
-- **Stas Kochevenko** | skochv04@gmail.com  
+- **Stas Kochevenko**  
 - **Patryk Mleczek**
 
 ## 🎮 Game Overview:
 Darwin World Simulation is a **2D RPG game** featuring:  
-✅ 1 
+✅ 1  
 ✅ 2  
 ✅ 3  
 ✅ 4  
