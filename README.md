@@ -30,7 +30,7 @@ Built with **Java** and **JavaFX**, this project models Darwinian evolution in a
 ## 🚀 How to Run the simulation?
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/user/repository.git  
+git clone https://github.com/skochv04/darwin-world-simulation  
 cd repository
 ```
 ### 2️⃣ Install Java and JavaFX (if not already installed)
