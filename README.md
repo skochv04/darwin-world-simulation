@@ -28,7 +28,11 @@ Built with **Java** and **JavaFX**, this project models Darwinian evolution in a
 [![simulation_preview](simulation.png)](https://youtu.be/5V80xosqOaE)
 
 ## 🚀 How to Run the simulation?
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/user/repository.git  
+cd repository
+```
+### 2️⃣ Install Java and JavaFX (if not already installed)
 
-### 1️⃣ Install Java and JavaFX (if not already installed)
-
-### 2️⃣ Execute the main class
+### 3️⃣ Execute the main class
